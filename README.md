@@ -1,1 +1,1 @@
-# Password-Encrypter-Decrypter
+This program encrypts and decrypts your password
